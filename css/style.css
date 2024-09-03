@@ -1,0 +1,19 @@
+ol.romano
+{
+    list-style-type: upper-roman;
+
+}
+
+ul.quadrado
+{
+    list-style-type: square;
+
+}
+*{
+background-color: brown;
+}
+
+h1
+{
+  color: orange;
+}
